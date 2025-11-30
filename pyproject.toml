@@ -52,7 +52,7 @@ dynamic = [
 # JAX requirements are in requirements.txt
 
 dependencies = [
-  "ai-models>=0.4.0",
+  "ai-models",
   "dm-tree",
   "dm-haiku(>=0.0.10,<=0.0.15)",
 ]
